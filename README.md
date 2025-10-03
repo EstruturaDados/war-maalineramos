@@ -91,7 +91,7 @@ Exibição do resultado da batalha, dados sorteados e mudanças no mapa.
 
 - Modularização total em funções
 - Missões aleatórias atribuídas:
-  1. Destruir o exército **Verde**
+  1. Destruir o exército ****
   2. Conquistar **3 territórios**
 - Menu interativo com opções
 
